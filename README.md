@@ -25,7 +25,7 @@ As a Data Specialist with a background in Geo-Information and Earth Observation,
    * [SQL](https://github.com/Kwasi16/Data-Analysis-Portfolio/tree/main/Portfolio%20Projects/SQL)
      
      * [Chicago crime pattern analysis](https://github.com/Kwasi16/Data-Analysis-Portfolio/tree/main/Portfolio%20Projects/SQL/Chicago%20crime%20project)
-     * [Data visualization using histogram](https://github.com/Kwasi16/Portfolio/tree/main/Portfolio%20Projects/SQL/Data_visualization)
+     * [Data visualization using histogram](https://github.com/Kwasi16/Data-Analysis-Portfolio/tree/main/Portfolio%20Projects/SQL/Data_visualization)
     
   * [Dashboard](https://github.com/Kwasi16/Data-Analysis-Portfolio/tree/main/Portfolio%20Projects/Dashboard)
     
