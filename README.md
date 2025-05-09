@@ -83,4 +83,4 @@ Refer to the respective project folder for detailed description and results.
 # 📚 Education
 
 * University of Twente, The Netherlands - Master's in Geo-Information and Earth Observation (August 2022 - July 2024)
-* University of Ghana, Ghana - Bachelor of Science in Agriculture (Agribusiness)
+* University of Ghana, Ghana - Bachelor of Science in Agriculture (September 2015 - May 2019)
