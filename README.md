@@ -22,7 +22,7 @@ As a Data Specialist with a background in Geo-Information and Earth Observation,
      * [Estimation of laptop pricies using machine learning](https://github.com/Kwasi16/Data-Analysis-Portfolio/blob/main/Portfolio%20Projects/Python/Estimation%20of%20laptop%20prices)
      * [META stock analysis](https://github.com/Kwasi16/Data-Analysis-Portfolio/tree/main/Portfolio%20Projects/Python/Stock_data_analysis)
 
-   * [SQL](https://github.com/swagatalaxmi1998/Data-Analysis-Portfolio/tree/main/Portfolio%20Projects/SQL)
+   * [SQL](https://github.com/Kwasi16/Data-Analysis-Portfolio/tree/main/Portfolio%20Projects/SQL)
      
      * [Chicago crime pattern analysis](https://github.com/swagatalaxmi1998/Data-Analysis-Portfolio/blob/main/Portfolio%20Projects/SQL/Chicago_crime_project.ipynb)
      * [Data visualization using histogram](https://github.com/Kwasi16/Portfolio/tree/main/Portfolio%20Projects/SQL/Data_visualization)
