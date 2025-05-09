@@ -30,7 +30,7 @@ As a Data Specialist with a background in Geo-Information and Earth Observation,
   * [Dashboard](https://github.com/Kwasi16/Data-Analysis-Portfolio/tree/main/Portfolio%20Projects/Dashboard)
     
     * [Wildfire Watch: Australia](https://github.com/Kwasi16/Data-Analysis-Portfolio/tree/main/Portfolio%20Projects/Dashboard/Interactive_dashboard_Dash)
-    * [Car Resale & Performance Analytics](https://github.com/Kwasi16/Portfolio/tree/main/Portfolio%20Projects/Dashboard/Excel_dashboard)
+    * [Car Resale & Performance Analytics](https://github.com/Kwasi16/Data-Analysis-Portfolio/tree/main/Portfolio%20Projects/Dashboard/Excel_dashboard)
      
 # Portfolio Projects
 
