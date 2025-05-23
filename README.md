@@ -11,7 +11,23 @@ As a Data Specialist with a background in Geo-Information and Earth Observation,
 - Utilizing deep learning for phenology mapping to analyze crop growth stages across seasons.
 - Processing large-scale geospatial datasets to identify patterns and trends in natural resource management.
 
-*Driven by curiosity and passion, I try to bridge the gap between environmental science and data-driven decision-making. My motive is to explore how data can illuminate solutions for our planet's most pressing challenges.*
+*Driven by curiosity and passion, I try to connect environmental science and data-driven decision-making. My motive is to explore how data can illuminate solutions for our planet's most pressing challenges.*
+
+## Nederlands
+
+Als dataspecialist met een achtergrond in Geo-Informatie en Aardobservatie, specialiseer ik mij in data-analyse, machine learning en remote sensing om inzichten te halen uit complexe milieu- en klimaatdatasets. Ik ben gepassioneerd over het gebruiken van mijn sterke analytische basis, probleemoplossend vermogen om ruwe data om te zetten in belangrijke inzichten. Ik werk graag met diverse datasets – zowel zelfstandig als in teamverband – om echte problemen op te lossen.
+
+Technische vaardigheden:
+-	Verzamelen en samenstellen van data met cloudplatforms zoals Google Earth Engine met Javascript.
+-	Data-analyse, voorspellende modellen en ruimetijke analyses met Python en R.
+-	Exploratory data analysis (EDA), feature extractie en het ontwikkelen van oplossingen voor milieuproblemen op basis van data.
+-	Gebruik van statistische en machine learning-technieken voor klimaatveranderingsmodellen, land-use change analyse en beheer van beschermde gebieden.
+-	Modellen ontwikkelen voor carbon sequestration en het beoordelen van bosdegradatie met optische remote sensing en biomassa-inschatting.
+-	Gebruik van deep learning voor  phenology kaarten om groeistadia van gewassen over seizoenen heen te analyseren.
+-	Verwerken van grootschalige ruimtelijke datasets om patronen en trends te herkennen in het beheer van natuurlijke hulpbronnen.
+
+*Gedreven door nieuwsgierigheid en passie probeer ik milieuwetenschap en datagedreven besluitvorming met elkaar te vebinden. Mijn doel is om te ontdekken hoe data oplossingen kunnen bieden voor de meest urgente uitdagingen van onze planeet.*
+
 
 # 📌 Table of Contents
 
